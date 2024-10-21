@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "private": false,
-  "homepage": "https://AndrewK0val.github.io/Ground-Control-Station/",
+  "homepage": "https://andrewk0val.github.io/Ground-Control-Station/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
