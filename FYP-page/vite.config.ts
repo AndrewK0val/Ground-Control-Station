@@ -9,6 +9,6 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/Ground-Control-Station/FYP-page'
+  base: '/Ground-Control-Station/FYP-page/'
 
 })
