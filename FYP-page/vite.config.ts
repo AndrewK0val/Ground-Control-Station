@@ -10,8 +10,8 @@ export default defineConfig({
     },
   },
   base: '/Ground-Control-Station/FYP-page/',
-    build: {
-    outDir: 'build', 
-  },
+  //  build: {
+  //  outDir: 'build', 
+  //},
 
 })
